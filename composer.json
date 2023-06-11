@@ -17,19 +17,9 @@
     "require": {
         "php": ">=7.2.0",
         "ext-json": "*",
-        "fzaninotto/faker": "^1.8",
-        "league/flysystem": "^3.15",
-        "mpociot/documentarian": "^0.4.0",
-        "mpociot/reflection-docblock": "^1.0.1",
-        "ramsey/uuid": "^4.7.4",
-        "symfony/var-exporter": "^v6.3.0"
     },
     "require-dev": {
-        "dms/phpunit-arraysubset-asserts": "^v0.5.0",
         "laravel/lumen-framework": "^5.7|^6.0|^7.0|^8.0",
-        "league/fractal": "^0.20.1",
-        "orchestra/testbench": "^v8.5.6",
-        "phpstan/phpstan": "^1.10.18"
     },
     "suggest": {
         "league/fractal": "Required for transformers support"

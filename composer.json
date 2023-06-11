@@ -28,7 +28,7 @@
         "dms/phpunit-arraysubset-asserts": "^0.1.0",
         "league/fractal": "^0.19.0",
         "orchestra/testbench": "^3.7|^4.0|^5.0",
-        "phpstan/phpstan": "^0.11.15",
+        "phpstan/phpstan": "^0.11.15"
     },
     "suggest": {
         "league/fractal": "Required for transformers support"
